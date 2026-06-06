@@ -166,4 +166,3 @@ streamlit run app/app.py
 ## 👤 Author
 
 **Jessica Suri**
-Project submitted to: European Central Bank Mentorship Program
